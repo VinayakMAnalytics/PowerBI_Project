@@ -20,7 +20,7 @@ The dataset used in this project contains YouTube trending video data, including
 ## How to Use:
 1. Clone or download the repository.
 2. Open the Power BI file (`YouTubeTrending.pbix`).
-3. Downloaad dataset('youtube_dataset')
+3. Downloaad dataset - https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset
 4. Explore the interactive dashboards and insights.
 
 ## Screenshots:
